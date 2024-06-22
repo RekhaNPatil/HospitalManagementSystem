@@ -1,9 +1,4 @@
-/*package Doctor;
 
-public class doctor {
-
-}
-*/
 package Doctor;
 
 
