@@ -1,8 +1,4 @@
-/*package Apply;
 
-public class applyhere {
-
-}*/
 package Apply;
 
 import Info.information;
