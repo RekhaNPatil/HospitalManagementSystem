@@ -1,8 +1,4 @@
-/*package Ambulance;
 
-public class ambulance {
-
-}*/
 package Ambulance;
 
 
